@@ -2,6 +2,8 @@
 
 
 Este é um projeto Flutter incrível criado para [desafio escribo 2].
+é uma estante de livros onde voce pode baixar e ele os livros disponiveis.
+o Apk pode ser instalado pelo arquivo `app-profile.apk` na raiz desse repositório
 
 ## Pré-requisitos
 
